@@ -1,0 +1,1 @@
+KEY ( "Artificial Intelligence" )  AND NOT  ( TITLE-ABS-KEY ( "survey" )  OR  TITLE-ABS-KEY ( "review" ) )  AND  ( LIMIT-TO ( DOCTYPE ,  "cp " )  OR  LIMIT-TO ( DOCTYPE ,  "ar " )  OR  LIMIT-TO ( DOCTYPE ,  "ch " )  OR  LIMIT-TO ( DOCTYPE ,  "ip " ) )  AND  ( LIMIT-TO ( PUBYEAR ,  2015 ) ) 

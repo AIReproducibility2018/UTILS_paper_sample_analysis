@@ -1,0 +1,15 @@
+date of export: 20171121
+
+Each publication year is exported separately, resulting in one .csv export for
+each year (in this case, for the years 2012, 2013, 2014, 2015, and 2016).
+
+Each export is (at the time of export) given the default name "scopus.csv" by
+Scopus, so to keep them separate (and to keep track of which export is from
+which year), the files are manually named scopus_year.csv (e.g for 2012, this
+would be scopus_2012.csv).
+
+Additionally, the search strings used has been manually stored in the files
+scopus_year.search (though take note that the search string does not perform
+the sort by citation count, which has to be performed as a separate step via
+the Scopus interface before exporting (in addition to selecting appropriate
+columns/fields to export)).
